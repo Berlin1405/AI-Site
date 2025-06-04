@@ -11,7 +11,8 @@ function Hero() {
           <span className="inline-flex px-2 py-1 rounded-full bg-[#9855ff] text-[#0C0017] mr-2 font-bold">New</span>
           Latest integration just arrived
         </div>
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-[#d2b8ff] to-[#caa8ff] bg-clip-text text-transparent tracking-wide leading-tight font-sans" style={{fontFamily: 'Antonio, sans-serif'}}>Boost your<br />rankings with AI.</h1>
+        <h1 className="text-5xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-white via-[#d2b8ff] to-[#caa8ff] bg-clip-text text-transparent tracking-wide leading-tight font-sans" style={{fontFamily: 'Antonio, sans-serif'}}>Boost your<br /></h1>
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-[#d2b8ff] to-[#caa8ff] bg-clip-text text-transparent tracking-wide leading-tight font-sans" style={{fontFamily: 'Antonio, sans-serif'}}>ranking with AI.<br /></h1>
         <p className="text-lg md:text-xl text-[#cfcbe4] mb-8 leading-relaxed tracking-wide font-light" style={{fontFamily: 'Roboto, sans-serif'}}>Elevate your site's visibility effortlessly with AI, where<br />smart technology meets user-friendly SEO tools.</p>
         <button className="mt-4 bg-white text-black font-bold px-8 py-3 rounded-xl text-lg transition hover:bg-[#e2e2e2]">Start for free</button>
       </div>
